@@ -1,0 +1,7 @@
+Nombre: Adler Aguilar López  
+Edad: 24 años  
+Lugar de estudios: Lonya Chico  
+Carrera: Ingeniería de Sistemas  
+Universidad: Universidad Nacional Toribio Rodríguez de Mendoza de Amazonas  
+Intereses: Desarrollo web, Inteligencia Artificial, Automatización de procesos, Sistemas distribuidos y Control de versiones con Git y GitHub.  
+Descripción: Soy un estudiante apasionado por la tecnología, siempre en busca de aprender nuevas herramientas y metodologías que me permitan crear soluciones innovadoras. Disfruto trabajar en equipo y aplicar buenas prácticas en el desarrollo de software.
